@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App_movil_desarrollo</string>
+    <string name="user_edittext">User/correo</string>
+    <string name="password_edittext">Password</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="name_edittext">Name</string>
+    <string name="last_name_edittext">Lastname</string>
+    <string name="CC_edittext">C.C</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="comfirm_password_edittext">Confirm Password</string>
+
+
+</resources>
