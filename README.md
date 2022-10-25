@@ -1,7 +1,10 @@
-# computacion-movil
-Aqui se van a ubicar los codigos para entregar en la clase de computacion movil
+En el siguiente repositorio se van a ubicar el desarrollo de los siguientes requerimientos para la APP:
 
-Los 3 primeros ejercicios a entregar son:
-1)Repaso de java uno
-2)
-3)
+
+1) Comunicación Backend - App
+2) Ajuste al backend
+3) Agregar iconos en la pantalla principal y logo al app
+4) iconos de las principales redes sociales
+
+
+
